@@ -363,6 +363,12 @@ footer{
 .social-link li{
     list-style: none;
     margin-right: 20px;
+    
+}
+
+.social-link{
+    border-bottom: 1px solid rgb(44, 43, 43);
+    border-top: 1px solid rgb(44, 43, 43);
 }
 
 
