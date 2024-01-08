@@ -233,7 +233,11 @@ section{
     position: relative;
     top: 6px
 }
-
+#holi-img4{
+    position: relative;
+    left: 175px;
+    bottom: 667px;
+}
 
 /*our portfolio */
 .portfolio-content{
